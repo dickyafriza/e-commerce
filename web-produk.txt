@@ -1,3 +1,4 @@
 Model web yang akan dibuat
-- dapat menjadi wadah beberapa teknisi service
-- mempermudah customer untuk memesan service
+- Dapat menjadi wadah beberapa teknisi service
+- Mempermudah customer untuk memesan service
+- Berkolaborasi dengan mitra" tertentu
