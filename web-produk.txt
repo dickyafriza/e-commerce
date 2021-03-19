@@ -1,0 +1,3 @@
+Model web yang akan dibuat
+- dapat menjadi wadah beberapa teknisi service
+- mempermudah customer untuk memesan service
